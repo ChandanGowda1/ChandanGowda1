@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChandanGowda1
+- 👋 Hi, I’m @ChandanGowda
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web devleopment
 - 💞️ I’m looking to collaborate on web development projects/internships
